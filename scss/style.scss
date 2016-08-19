@@ -1,0 +1,12 @@
+/* *********************************************
+ALL SCSS - Import Every Index Of Every SCSS Folder
+********************************************* */
+@import 'normalize';
+@import 'variables';
+@import 'mixings';
+@import 'global';
+@import 'atoms/atoms';
+@import 'molecules/molecules';
+@import 'organism/organism';
+@import 'pages/pages';
+@import 'templates/templates';
